@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vindicationesso00pallgoog_0437.png"; bbox 0 0 3858 5729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1941 3393 1990 3616">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1941 3393 1990 3616">
+     <span class='ocr_line' id='line_1_1' title="bbox 1941 3393 1990 3616"><span class='ocrx_word' id='word_1_1' title='bbox 1947 3393 1966 3418; x_wconf 60' lang='grc' dir='ltr'><strong>ὃ.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1941 3436 1978 3558; x_wconf 48' lang='lat' dir='ltr'><strong>..o-Juv-</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1950 3575 1971 3598; x_wconf 54' lang='grc' dir='ltr'><strong>,Κ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1985 3612 1990 3616; x_wconf 79' lang='grc'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1328 3903 1393 3929">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1328 3903 1393 3929">
+     <span class='ocr_line' id='line_1_2' title="bbox 1328 3903 1393 3929; baseline -0.015 -6"><span class='ocrx_word' id='word_1_5' title='bbox 1328 3903 1333 3910; x_wconf 84' lang='grc'>·</span> <span class='ocrx_word' id='word_1_6' title='bbox 1352 3904 1393 3929; x_wconf 75' lang='lat'><strong>‹,.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
